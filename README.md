@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java; JavaScript and ABAP
 - 📫 How to reach me: veronikamaria.siebert@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love plants 🌱
+- ⚡ Fun fact: I love plants 🪴
 
 <!---
 nika-sbr/nika-sbr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
